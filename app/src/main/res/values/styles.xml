@@ -1,0 +1,25 @@
+<resources>
+
+    <style name="Widget.AppTheme.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+
+    <style name="EditText" parent="Theme.AppCompat.Light">
+
+        <item name="colorControlNormal">#c5c5c5</item>
+        <item name="colorControlActivated">#707070</item>
+        <item name="colorControlHighlight">#707070</item>
+    </style>
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/colorSubTitleText</item>
+        <item name="android:textColorHint">@color/colorSubTitleText</item>
+        <item name="hintTextColor">@color/colorSubTitleText</item>
+        <item name="android:state_focused">true</item>
+        <item name="android:state_hovered">true</item>
+        <item name="android:state_enabled">true</item>
+        <item name="boxStrokeWidth">1dp</item>
+    </style>
+</resources>

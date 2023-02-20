@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Admin Of Mosque</string>
+    <string name="title_home">Home</string>
+    <string name="speak_text">If you have problem kindly email us.</string>
+    <string name="mosque_name">Mosque Name</string>
+    <string name="owner_s_name">Owners Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="add_mosque">Add Mosque</string>
+    <string name="add_message">Message</string>
+    <string name="add_your_mosque">Add Your Mosque</string>
+    <string name="add_time">Add Time</string>
+    <string name="home">Home</string>
+    <string name="placeholder_text">18 Jan 2023</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_phone">Phone Number</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Log In</string>
+    <string name="action_logout">Log Out</string>
+    <string name="action_register">Register</string>
+
+
+    <string name="action_register_text">New user?</string>
+    <string name="action_create_an_account">Create an account</string>
+    <string name="action_create_account">Create account</string>
+
+    <string name="action_sign_in_text">Already have an account?</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_log_out_short">Log out</string>
+
+    <string name="welcome">"Welcome !"</string>
+
+    <string name="invalid_email">Not a valid email</string>
+    <string name="invalid_username">Input Username</string>
+    <string name="invalid_phone">Not a valid phone number</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register_new_mosque">Register New Mosque</string>
+    <string name="update_information">Update Information</string>
+
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.rpn.adminmosque.ui.fragment.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/navigation_add_time"
+        android:name="com.rpn.adminmosque.ui.fragment.AddTimeFragment"
+        android:label="@string/add_time"
+        tools:layout="@layout/fragment_add_time" />
+    <fragment
+        android:id="@+id/navigation_add_mosque"
+        android:name="com.rpn.adminmosque.ui.fragment.AddMosqueFragment"
+        android:label="@string/add_mosque"
+        tools:layout="@layout/fragment_add_mosque" />
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.rpn.adminmosque.MainActivity"
+        android:label="MainActivity"
+        tools:layout="@layout/activity_main"  />
+    <fragment
+        android:id="@+id/navigation_add_message"
+        android:name="com.rpn.adminmosque.ui.fragment.AddMessageFragment"
+        android:label="@string/add_message"
+        tools:layout="@layout/fragment_add_message" />
+
+</navigation>

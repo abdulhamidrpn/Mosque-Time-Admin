@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1062781473326",
+    "project_id": "mosque-time",
+    "storage_bucket": "mosque-time.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062781473326:android:28ad4707742a2c948205bf",
+        "android_client_info": {
+          "package_name": "com.rpn.adminmosque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062781473326-m8ju70jq75nu1t4nerhmdd9irij1pk6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDS4KW5ELxVS_pyz4T3X-j9HYPGRNjpjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062781473326-m8ju70jq75nu1t4nerhmdd9irij1pk6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062781473326:android:763f09e071d6e1fc8205bf",
+        "android_client_info": {
+          "package_name": "com.rpn.mosquetime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062781473326-m8ju70jq75nu1t4nerhmdd9irij1pk6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDS4KW5ELxVS_pyz4T3X-j9HYPGRNjpjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062781473326-m8ju70jq75nu1t4nerhmdd9irij1pk6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

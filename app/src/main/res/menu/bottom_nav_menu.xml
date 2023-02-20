@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_round_home_24"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/navigation_add_mosque"
+        android:icon="@drawable/ic_round_add_mosque_24"
+        android:title="@string/add_mosque" />
+    <item
+        android:id="@+id/navigation_add_message"
+        android:icon="@drawable/ic_round_message_24"
+        android:title="@string/add_message" />
+
+    <item
+        android:id="@+id/navigation_add_time"
+        android:icon="@drawable/ic_round_add_time_24"
+        android:title="@string/add_time" />
+
+
+</menu>
