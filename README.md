@@ -29,7 +29,10 @@ Followed by the Material3 UI design pattern
 
 <table>
   <tr>
-    <td>Setup every day wakt time with one single click. Also, get location-based time of salat and sunrise and sunset.</td>
-    <td><img src="https://github.com/user-attachments/assets/127599b5-536f-41e9-9c0d-66f6cabee428" width=270 height=500></td>
+    <td>
+      Setup every day wakt time with one single click. 
+      Also, get location-based time of salat and sunrise and sunset.
+    </td>
+    <td><img src="https://github.com/user-attachments/assets/127599b5-536f-41e9-9c0d-66f6cabee428" width=270 height=700></td>
   </tr>
  </table>
