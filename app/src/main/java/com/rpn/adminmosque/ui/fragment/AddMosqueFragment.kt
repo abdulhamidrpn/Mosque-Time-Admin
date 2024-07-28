@@ -109,9 +109,13 @@ class AddMosqueFragment : CoroutineFragment() {
                         binding.btnUploadMosqueInfo.visibility = View.GONE
 
                         if (binding.btnUploadMosqueInfo.text == getString(R.string.register_new_mosque)) {
-                            mainViewModel.masjidInfo.value?.apply {
+                            // TODO: if activated is false here no one can register without permission
+                            //for now commented out.
+
+                            /*mainViewModel.masjidInfo.value?.apply {
                                 activated = false
-                            }
+                            }*/
+
                             mainViewModel.uploadMasjidInfo(
                                 mainViewModel.masjidInfo.value!!,
                             ) {
