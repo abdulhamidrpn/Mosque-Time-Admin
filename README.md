@@ -21,18 +21,18 @@ Followed by the Material3 UI design pattern
      <td>Update Mosque</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/25faeb88-76e8-4d46-b36c-1eaa1ffc7689" width=270 height=800></td>
-    <td><img src="https://github.com/user-attachments/assets/7c6015d8-7f5e-47ee-95a5-4b1beff21e56" width=270 height=800></td>
-    <td><img src="https://github.com/user-attachments/assets/3e84882f-fcec-4177-a773-7e89ec3e6c28" width=270 height=800></td>
+    <td><img src="https://github.com/user-attachments/assets/25faeb88-76e8-4d46-b36c-1eaa1ffc7689" width=270 height=700></td>
+    <td><img src="https://github.com/user-attachments/assets/7c6015d8-7f5e-47ee-95a5-4b1beff21e56" width=270 height=700></td>
+    <td><img src="https://github.com/user-attachments/assets/3e84882f-fcec-4177-a773-7e89ec3e6c28" width=270 height=700></td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td>
-      Setup every day wakt time with one single click. 
-      Also, get location-based time of salat and sunrise and sunset.
+      Set up every day wakt time with one single click.<br /> 
+      Also, get location-based time for salat, sunrise, and sunset.
     </td>
-    <td><img src="https://github.com/user-attachments/assets/127599b5-536f-41e9-9c0d-66f6cabee428" width=270 height=700></td>
+    <td><img src="https://github.com/user-attachments/assets/127599b5-536f-41e9-9c0d-66f6cabee428" width=270 height=600></td>
   </tr>
  </table>
